@@ -1,0 +1,3 @@
+Problema: Crear 3 programa que sean capaces de reordenar 10 numeros escogidos por el usuario.
+Estos numeros deben ser reordenados de menor a mayor.
+Estos 3 programas deben de utilizar los metodos de ordenamiento de burbuja, insercion y seleccion.
