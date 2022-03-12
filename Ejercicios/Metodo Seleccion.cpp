@@ -9,10 +9,13 @@ int main(){
     pregunta();
 
     for(int i=0; i<x; i++){
+
         min = i;
         for (int j=i+1; j<=x; j++){
+
             if(numeros[j]<numeros[min]){
                 min=j;
+                
             }
         }
 
@@ -46,17 +49,6 @@ void pregunta(){
 void respuesta(){
 
     for(int i=0; i<x+1; i++){
-
-        n=i+1;
-        printf("El nuevo valor del arreglo en la posicion %d es de %d\n ", n, numeros[i]);
-
-    }
-
-}
-
-void respuesta(){
-
-    for(int i=0; i<10; i++){
 
         n=i+1;
         printf("El nuevo valor del arreglo en la posicion %d es de %d\n ", n, numeros[i]);
