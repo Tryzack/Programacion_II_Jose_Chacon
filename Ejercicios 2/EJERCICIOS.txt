@@ -1,0 +1,19 @@
+1._ Hacer una estructura llamada corredor, en la cual se tendrán los siguientes campos: Nombre, Edad, sexo, club, pedir datos al usuario para un corredor y así una categoría de competición:  
+•	juvenil      <= 18 años 
+•	Senior       <= 40 años 
+•	Veterano  >   40 años 
+Posteriormente imprime todos los datos del corredor, incluida la categoría y la competición. 
+
+2._ Hacer una estructura llamada alumno, el la cual se tendrán los siguientes campos: 
+•	Nombre.
+•	Edad.
+•	Promedio. 
+Pedir datos al usuario para tres alumnos, probar cual de los tres tiene el mejor promedio y posteriormente imprimir los datos de ese alumno. 
+
+3._ Realizar un programa que lea un arreglo de estructuras los datos de N empleados de la empresa y que imprima los datos del empleado con menor y mayor salario. 
+
+4._ hacer un arreglo de estructuras llamada atleta para N para atletas, que contenga los siguientes campos:
+•	Nombre 
+•	País 
+•	NumeroMedallas.
+Y devuelva los datos (Nombre y país) del atleta que ha ganado mayo numero de medallas. 
